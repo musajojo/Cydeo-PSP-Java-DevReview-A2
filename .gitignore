@@ -1,0 +1,4 @@
+# Project exclude paths
+/collections-review/out/
+/generics/target/
+/lambda/target/
