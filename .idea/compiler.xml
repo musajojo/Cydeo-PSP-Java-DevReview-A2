@@ -11,8 +11,6 @@
         <module name="oop-review" />
         <module name="lambda" />
         <module name="generics" />
-        <module name="oop-review (2)" />
-        <module name="oop-review (1)" />
         <module name="streams" />
       </profile>
     </annotationProcessing>
